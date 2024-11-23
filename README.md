@@ -5,6 +5,9 @@
     I am <strong>beginner developer</strong>, Java enthusiast, 
      I love high-level programming languages. [More projects here](https://github.com/ferraari)
   </p>
+
+Studying a Bachelor's degree in Computer Science at Estácio de Sá University
+
 @@ -20,10 +20,10 @@
   </p>
 </div>
