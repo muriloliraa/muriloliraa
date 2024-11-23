@@ -3,7 +3,7 @@
   <p align="left">
      My name is Murilo Lira, I am 19 years-old and 
     I am <strong>beginner developer</strong>, Java enthusiast, 
-     I love high-level programming languages. [More projects here](https://github.com/ferraari)
+     I love high-level programming languages. [Clique aqui](https://github.com/muriloliraa)
   </p>
 @@ -20,10 +20,10 @@
   </p>
@@ -17,4 +17,4 @@
  </a>
 <a href="https://discord.com/users/818236451585654834" target="_blank">
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ferraari)](https://github.com/muriloliraa)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=muriloliraa)](https://github.com/muriloliraa)
