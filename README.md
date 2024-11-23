@@ -3,7 +3,7 @@
   <p align="left">
      My name is Murilo Lira, I am 19 years-old and 
     I am <strong>beginner developer</strong>, Java enthusiast, 
-     I love high-level programming languages. More projects on [here](https://github.com/ferraari)
+     I love high-level programming languages. [More projects here](https://github.com/ferraari)
   </p>
 @@ -20,10 +20,10 @@
   </p>
